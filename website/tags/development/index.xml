@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on SceneIt</title>
+    <link>/tags/development.html</link>
+    <description>Recent content in Development on SceneIt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retrospective: The Do&#39;s and Don&#39;ts of Developing</title>
+      <link>/blog/date-i18n.html</link>
+      <pubDate>Wed, 31 Mar 2021 23:00:00 +0000</pubDate>
+      
+      <guid>/blog/date-i18n.html</guid>
+      <description>We learned a lot through the development process of our app, taking away both positive and critical lessons over the course of the semester. Here is a list of Do&amp;rsquo;s and Don&amp;rsquo;ts we discovered through the process:</description>
+    </item>
+    
+    <item>
+      <title>SceneIt Video Demo </title>
+      <link>/blog/blog-post-3.html</link>
+      <pubDate>Wed, 31 Mar 2021 23:00:00 +0000</pubDate>
+      
+      <guid>/blog/blog-post-3.html</guid>
+      <description>Check out the youtube video below, demoing the SceneIt app!
+
+
+  </description>
+    </item>
+    
+  </channel>
+</rss>

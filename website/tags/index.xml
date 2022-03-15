@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SceneIt</title>
+    <link>/tags.html</link>
+    <description>Recent content in Tags on SceneIt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>/tags/development.html</link>
+      <pubDate>Wed, 31 Mar 2021 23:00:00 +0000</pubDate>
+      
+      <guid>/tags/development.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/tags/video.html</link>
+      <pubDate>Wed, 31 Mar 2021 23:00:00 +0000</pubDate>
+      
+      <guid>/tags/video.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice</title>
+      <link>/tags/advice.html</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>/tags/advice.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-03-31T23:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories.html</loc>
+    <lastmod>2021-03-31T23:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/categories.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/categories.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories.html"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/development.html</loc>
+    <lastmod>2021-03-31T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog.html</loc>
+    <lastmod>2021-03-31T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/retrospective.html</loc>
+    <lastmod>2021-03-31T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/date-i18n.html</loc>
+    <lastmod>2021-03-31T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog-post-3.html</loc>
+    <lastmod>2021-03-31T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags.html</loc>
+    <lastmod>2021-03-31T23:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags.html"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/video.html</loc>
+    <lastmod>2021-03-31T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/advice.html</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog-post-2.html</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/overview.html</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SceneIt</string>
+    <string name="title_activity_movie_info">MovieInfoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="cardDate">Expiration date MM/YY</string>
+    <string name="cardNumber">Card number</string>
+    <string name="cardCVV">CVV</string>
+    <string name="cardName">Name in Card</string>
+    <string name="paywith">Pay with</string>
+    <string name="btnChange">Change > </string>
+    <string name="totalAmount">0.00 CAD</string>
+    <string name="cardNum">Card #: add card</string>
+    <string name="paypalPolicy1"> I want to use this Card for all automatic purchase with Sceneit. I understand this lets me check out faster by not having log in to PayPal to finish my purchase. I understand that if I have a PayPal balance, that balance will be used first to complete my payment, and that if my preferred payment method is unavailable, Paypal will charge my backup payment method</string>
+    <string name="paypalPolicy2"> you\'ll be able to review this payment before you complete it at Sceneit. On your way back to Sceneit, we\'ll temporarly authorize $0.00 CAD on your card to help ensure your payment\'s success. Temporary authorization usually drop off your card with one business day.  Warning : This is demonstration of Paypal so do not type your personal credit card information.</string>
+    <string name="confirmMsg">Thanks for your <br></br>purchase</string>
+    <string name="btnAgree">Agree &amp; Continue</string>
+    <string name="paypalLogo">paypal logo</string>
+    <string name="cartImg">cart img</string>
+    <string name="checkImg">check img</string>
+    <string name="done">Done</string>
+    <string name="save">Save</string>
+    <string name="paymentImg">payment img</string>
+
+
+    <string name="email">Email</string>
+    <string name="name_on_card">Name on Card</string>
+    <string name="expDate">Expiration Date (mmyy)</string>
+    <string name="cvc">CVC</string>
+    <string name="card_number">Number on Card</string>
+    <string name="country">Country</string>
+    <string name="address_one">Address Line 1</string>
+    <string name="address_two">Address Line 2</string>
+    <string name="city">City</string>
+    <string name="province">State/Province/Region</string>
+    <string name="postal_code">Postal Code/ZIP</string>
+    <string name="telephone">Telephone Number</string>
+    <string name="confirmPurchase">Confirm Purchase</string>
+
+
+
+</resources>

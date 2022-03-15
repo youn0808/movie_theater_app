@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on SceneIt</title>
+    <link>/tags/video.html</link>
+    <description>Recent content in Video on SceneIt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SceneIt Video Demo </title>
+      <link>/blog/blog-post-3.html</link>
+      <pubDate>Wed, 31 Mar 2021 23:00:00 +0000</pubDate>
+      
+      <guid>/blog/blog-post-3.html</guid>
+      <description>Check out the youtube video below, demoing the SceneIt app!
+
+
+  </description>
+    </item>
+    
+  </channel>
+</rss>
